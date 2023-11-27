@@ -8,4 +8,4 @@ Initial analysis involved the creation of a correlation map, facilitating the un
 
 The PyCaret library was employed to explore and select the optimal classification model for the dataset. Some common performance metrics for classification problem have been used to evaluate the performance of these models, such as Accuracy, Precision, Recall, F1 score and area under the receiver operating characteristic curve (AUC-ROC). Among several models, the Extra Trees Classifier emerged as the most effective, achieving a 59% accuracy rate in classifying wine quality on a scale of 0-10. Additionally, both the Random Forest Classifier and the CatBoost Classifier exhibited commendable accuracy in this classification project. Despite the dataset is imbalanced, these models demonstrate promising accuracy rates, offering valuable insights into potential applications within the wine industry for quality assessment purposes.
 
-# Youtube link: 
+# Youtube link: https://youtu.be/0m0_b-7F83M
