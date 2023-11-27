@@ -1,5 +1,5 @@
-# red-wine-quality-classification
-## red wine quality dataset source: https://archive.ics.uci.edu/dataset/186/wine+quality 
+# Red-wine-quality-classification
+## Red wine quality dataset source: https://archive.ics.uci.edu/dataset/186/wine+quality 
 
 # Abstract
 This study delves into the classification of red wine quality, focusing on Vinho Verde samples sourced from the northern region of Portugal. The dataset comprises 1599 wine entries, encompassing 12 numeric features without any missing values. All values are numeric. The input values including fixed acidity, volatile acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur-dioxide, density, pH, sulphates, and alcohol content are float and only output value (wine quality) is integer. 
